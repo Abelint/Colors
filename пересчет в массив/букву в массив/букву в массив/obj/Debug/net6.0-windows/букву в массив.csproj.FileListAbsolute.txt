@@ -1,0 +1,17 @@
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\bin\Debug\net6.0-windows\букву в массив.exe
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\bin\Debug\net6.0-windows\букву в массив.deps.json
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\bin\Debug\net6.0-windows\букву в массив.runtimeconfig.json
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\bin\Debug\net6.0-windows\букву в массив.dll
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\bin\Debug\net6.0-windows\букву в массив.pdb
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву в массив.csproj.AssemblyReference.cache
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву_в_массив.Form1.resources
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву в массив.csproj.GenerateResource.cache
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву в массив.GeneratedMSBuildEditorConfig.editorconfig
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву в массив.AssemblyInfoInputs.cache
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву в массив.AssemblyInfo.cs
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву в массив.csproj.CoreCompileInputs.cache
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву в массив.dll
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\refint\букву в массив.dll
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву в массив.pdb
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\букву в массив.genruntimeconfig.cache
+G:\5_ArduinoProject\colors\пересчет в массив\букву в массив\букву в массив\obj\Debug\net6.0-windows\ref\букву в массив.dll
